@@ -1,4 +1,4 @@
-## ✈ Flight Price Prediction  
+## ✈ Airfare Analytics: Machine Learning-Based Price Prediction
 
 ### 📌 Overview  
 This project aims to predict flight ticket prices using machine learning techniques. The dataset includes airline, source, destination, stops, duration, and booking time. The workflow covers **data preprocessing, exploratory data analysis (EDA), feature engineering, model selection, hyperparameter tuning, and evaluation using key performance metrics**.
